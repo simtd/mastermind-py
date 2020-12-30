@@ -2,8 +2,8 @@
 
 ### Screenshots 
 
-![](mastermind-empty.png | width=50)
+![](mastermind-empty.png | width=100)
 
-![](mastermind-won-1.png | width=50)
+![](mastermind-won-1.png | width=100)
 
-![](mastermind-won-2.png | width=50)
+![](mastermind-won-2.png | width=100)
