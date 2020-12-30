@@ -2,6 +2,8 @@
 
 ### Screenshots 
 
+<img src="mastermind-empty.png" width="48">
+
 ![](mastermind-empty.png | width=100)
 
 ![](mastermind-won-1.png | width=100)
