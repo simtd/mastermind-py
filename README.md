@@ -3,9 +3,5 @@
 ### Screenshots 
 
 <img src="mastermind-empty.png" width="350">
-
-![](mastermind-empty.png | width=100)
-
-![](mastermind-won-1.png | width=100)
-
-![](mastermind-won-2.png | width=100)
+<img src="mastermind-won-1.png" width="350">
+<img src="mastermind-won-2.png" width="350">
