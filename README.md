@@ -2,7 +2,7 @@
 
 ### Screenshots 
 
-<img src="mastermind-empty.png" width="48">
+<img src="mastermind-empty.png" width="100">
 
 ![](mastermind-empty.png | width=100)
 
